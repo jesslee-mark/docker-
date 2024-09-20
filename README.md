@@ -20,7 +20,7 @@
 12. [【docker常用命令系列】docker 8-jdk-alpine由来原理适用场景安装示例](https://zhuanlan.zhihu.com/p/667075764)
 13. [【docker常用命令系列】Docker exec 语法用法选项示例注意事项权威详解](https://zhuanlan.zhihu.com/p/681770505)
 14. [【docker常用命令系列】Dockerfile用法选项示例权威详解1](https://zhuanlan.zhihu.com/p/688677598)
-15. [【docker常用命令系列】Dockerfile用法选项示例权威详解[2\]](https://zhuanlan.zhihu.com/p/688712017)
+15. [【docker常用命令系列】Dockerfile用法选项示例权威详解[2]](https://zhuanlan.zhihu.com/p/688712017)
 16. [【docker常用命令系列】Docker login用法选项示例注意事项详解](https://zhuanlan.zhihu.com/p/689616837)
 17. [【docker常用命令系列】Docker save导出镜像语法用法示例详解](https://zhuanlan.zhihu.com/p/689619518)
 18. [【docker常用命令系列】Docker load加载镜像用法描述参数示例](https://zhuanlan.zhihu.com/p/689620402)
